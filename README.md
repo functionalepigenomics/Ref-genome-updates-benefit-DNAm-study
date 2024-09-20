@@ -8,7 +8,7 @@ This repository contains codes codes to reproduce the results and figures publis
 
 The unambiguous probe sets on the HM450K, EPIC, and EPICv2 arrays assessed by T2T-CHM13, pangenome, and their combination (95 assembles including T2T-CHM13 and 94 assembles from the pangenome), separately, are available for download from https://github.com/functionalepigenomics/Illumina_Infinium_HumanMethylation_BeadChips_Annotation.
 
-### :computer: Unambiguous probes
+### :computer: Repository Structure
 The repository is organized as follows:
 
 - Figures: This folder contains codes for generating the main figures.
