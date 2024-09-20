@@ -1,0 +1,20 @@
+library(karyoploteR)
+library(BSgenome)
+library(ggplot2)
+library("BSgenome.Hsapiens.NCBI.T2T.CHM13v2.0")
+#library(AnnotationHub)
+#ahub <- AnnotationHub()
+Seqinfo(genome="T2T-CHM13v2.0")
+#kp <- plotKaryotype("T2T-CHM13v2.0")
+cpg<-read.table("cpgisland")
+cpg <- toGRanges(cpg)
+# gene<-read.table("catLiftOffGenesV1")
+# gene <- toGRanges(gene)
+region<-read.table("add.SRR4235743.CpG_report.merged_CpG_evidence.cov.bed.gz")
+region <- toGRanges(region)
+kp <- plotKaryotype("BSgenome.Hsapiens.NCBI.T2T.CHM13v2.0",chromosomes=c(1:22, "X", "Y"))
+kpPlotRegions(kp, data=cpg, r0=0, r1=0.3,col="#AACCFF",  border="#AACCFF") # layer.margin = 0.05,
+# kpPlotRegions(kp, data=extendRegions(gene), col="#FFEECC",  border="#FFEECC", r0=0.3, r1=0.55)
+kpPlotRegions(kp, data=extendRegions(region), col="#E64B35",  border="#E64B35", r0=0.4, r1=0.7)
+
+
