@@ -6,3 +6,7 @@ This repository contains codes codes to reproduce the results and figures publis
 
 "Complete Reference Genome and Pangenome Expand Biologically Relevant Information for Genome-Wide DNA Methylation Analysis Using Short-Read Sequencing and Array Data"
 
+The unambiguous probe sets on the HM450K, EPIC, and EPICv2 arrays assessed by T2T-CHM13, pangenome, and their combination (95 assembles including T2T-CHM13 and 94 assembles from the pangenome; HM450K, n = 405,640; EPIC, n = 735,674; EPICv2, n = 821,942), separately, are available for download from https://github.com/functionalepigenomics/Illumina_Infinium_HumanMethylation_BeadChips_Annotation
+
+### 📫 Contact me
+- Email: dzheng.th@gmail.com
