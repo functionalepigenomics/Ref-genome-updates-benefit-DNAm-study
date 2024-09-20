@@ -15,9 +15,7 @@ The repository is organized as follows:
 
 - Short-read sequencing: This folder contains scripts related to analyzing DNA methyaltion in short-read sequencing data.
 
-- data: This folder contains some input data for running the code in the notebooks. Due to the store limitation, some of the large data files are not included in the repository. However, instructions are provided on how to obtain the required data.
-
-Unambigous_probes_identification: This folder stores codes for the identification of unambiguous probe sets in DNA methyaltion arrays.
+- Unambigous_probes_identification: This folder stores codes for the identification of unambiguous probe sets in DNA methyaltion arrays.
 
 Please note that some of the codes can be easily modified to perform similar analyses, as with the HM450K, EPIC, and EPICv2 arrays, and only one copy is provided here for easier follow-up.
 
