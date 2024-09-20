@@ -4,5 +4,5 @@
 
 This repository contains codes codes to reproduce the results and figures published in the paper
 
-Complete Reference Genome and Pangenome Expand Biologically Relevant Information for Genome-Wide DNA Methylation Analysis Using Short-Read Sequencing and Array Data
+"Complete Reference Genome and Pangenome Expand Biologically Relevant Information for Genome-Wide DNA Methylation Analysis Using Short-Read Sequencing and Array Data"
 
