@@ -13,7 +13,7 @@ The repository is organized as follows:
 
 - Figures: This folder contains codes for generating the main figures.
 
-- Short-read sequencing: This folder contains scripts related to analyzing DNA methyaltion in short-read sequencing data.
+- Short-read_sequencing: This folder contains scripts related to analyzing DNA methyaltion in short-read sequencing data.
 
 - Unambigous_probes_identification: This folder stores codes for the identification of unambiguous probe sets in DNA methyaltion arrays.
 
