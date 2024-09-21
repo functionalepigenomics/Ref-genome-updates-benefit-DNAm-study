@@ -17,6 +17,8 @@ The repository is organized as follows:
 
 - Unambigous_probes_identification: This folder stores codes for the identification of unambiguous probe sets in DNA methyaltion arrays.
 
+- EWAS_cancer: This folder contains scripts for the epigenome-wide association study (EWAS) of cancer.
+
 Please note that some of the code can be easily modified to perform similar analyses, such as with the HM450K, EPIC, and EPICv2 arrays. Only one copy is provided here for easier follow-up.
 
 ### 📫 Contact me
