@@ -1,4 +1,4 @@
-## Reference Genome Updates on DNA Methylation Studies
+## Reference Genome Updates on Methylation Studies
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/functionalepigenomics)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dzheng.th@gmail.com)
 
