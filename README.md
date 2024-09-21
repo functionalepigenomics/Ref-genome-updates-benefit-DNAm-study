@@ -17,7 +17,7 @@ The repository is organized as follows:
 
 - Unambigous_probes_identification: This folder stores codes for the identification of unambiguous probe sets in DNA methyaltion arrays.
 
-Please note that some of the codes can be easily modified to perform similar analyses, as with the HM450K, EPIC, and EPICv2 arrays, and only one copy is provided here for easier follow-up.
+Please note that some of the code can be easily modified to perform similar analyses, such as with the HM450K, EPIC, and EPICv2 arrays. Only one copy is provided here for easier follow-up.
 
 ### 📫 Contact me
 Email: dzheng.th@gmail.com
